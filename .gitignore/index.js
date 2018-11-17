@@ -134,4 +134,5 @@ client.on("message", async message => {
   }
 });
 
-client.login(config.token);
+client.login(config.token);NDc2NzI5MDUzODczOTYzMDE5.DtGtRA.PtCi4vT3y02jnl36AbrDC90-K34
+Un séjour sans faille
